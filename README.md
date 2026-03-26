@@ -99,9 +99,5 @@ I’m particularly interested in building future-oriented technologies that comb
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Quantum+Computing;Open+Source+Contributor;SaaS+Builder&center=true&width=500&height=50">
-</p>
----
 
 ⭐ Building • Learning • Contributing • Researching
