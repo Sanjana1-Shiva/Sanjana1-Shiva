@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Sanjana</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+Student;Quantum+Computing+Explorer;Web3+Builder;Open+Source+Contributor;SaaS+Builder&center=true&width=700&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+Student;Quantum+Computing+Explorer;Web3+Builder;Open+Source+Contributor;SaaS+Builder&center=true&width=900&height=50">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4d64ae5c-33f0-4cc6-ab81-aa805e2de2ac" width="100%">
+  <img src="https://github.com/user-attachments/assets/4d64ae5c-33f0-4cc6-ab81-aa805e2de2ac" width="90%">
 </p>
 
 ---
