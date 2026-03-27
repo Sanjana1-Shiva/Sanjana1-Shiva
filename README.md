@@ -78,7 +78,6 @@ I’m particularly interested in building future-oriented technologies that comb
 ## ☁️ SaaS & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Cloud](https://img.shields.io/badge/Cloud%20Infrastructure-4285F4?style=for-the-badge)
 ![SaaS](https://img.shields.io/badge/SaaS-FF5722?style=for-the-badge)
 
