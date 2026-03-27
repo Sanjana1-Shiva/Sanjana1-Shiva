@@ -36,7 +36,6 @@ I’m particularly interested in building future-oriented technologies that comb
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 
 ---
 
@@ -53,6 +52,7 @@ I’m particularly interested in building future-oriented technologies that comb
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-000000?style=for-the-badge)
 
