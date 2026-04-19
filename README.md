@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=700&duration=2500&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=AI+%26+Data+Science+Student;Quantum+Computing+Explorer;Web3+Builder;Open+Source+Contributor;SaaS+Builder" />
 </p>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/4d64ae5c-33f0-4cc6-ab81-aa805e2de2ac" width="90%">
-</p>
-
 ---
 ## 👨‍💻 About Me
 
