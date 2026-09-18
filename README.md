@@ -1,24 +1,26 @@
 <h1 align="center">Hi 👋 I'm Sanjana</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=700&duration=2500&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=AI+%26+Data+Science+Student;Quantum+Computing+Explorer;Web3+Builder;Open+Source+Contributor;SaaS+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=700&duration=2500&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=Quantitative+Researcher;Quantum+Computing+Explorer;Web3+Builder;Open+Source+Contributor;SaaS+Builder" />
 </p>
 
 ---
 ## 👨‍💻 About Me
 
-I'm an AI & Data Science student exploring the intersection of Quantum Computing, Blockchain, and Emerging Technologies.
-I enjoy working on innovative ideas, participating in hackathons, and learning through hands-on building.
+I'm an AI & Data Science undergraduate building at the intersection of quantitative finance, applied AI, and cryptography with quantum computing and blockchain as long-running interests underneath it all. Most of my time right now goes into systematic alpha research on WorldQuant BRAIN and Consent Ledger, a cryptographic consent-lifecycle platform I co-founded.
+
+Long-term, I want to be someone who can move fluidly between research and engineering: rigorous enough to trust the numbers, and technical enough to ship the system that acts on them.
 
 ### 🎯 Currently Focused On
 
+📈 Quantitative research & systematic alpha development (WorldQuant BRAIN)<br>
 ⚛️ Quantum Computing & Quantum Algorithms  
 ⛓️ Blockchain & Web3 Ecosystem  
-🤖 AI & Data Science Applications  
+🤖 AI/ML tooling for research automation and LLM-driven pipelines  
 🌍 Open Source Contributions  
 🚀 Hackathons & Innovation Projects
 
-I’m particularly interested in building future-oriented technologies that combine quantum computing, decentralized systems, and intelligent automation.
+I'm most drawn to work that sits between disciplines like finance, AI, and cryptography rather than comfortably inside one of them.
 
 ---
 
@@ -31,7 +33,15 @@ I’m particularly interested in building future-oriented technologies that comb
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+## 📈 Quantitative Research
+
+![WorldQuant BRAIN](https://img.shields.io/badge/WorldQuant%20BRAIN-1A1A2E?style=for-the-badge)
+![Alpha Signal Research](https://img.shields.io/badge/Alpha%20%2F%20Signal%20Research-2E8B57?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastExpression](https://img.shields.io/badge/FastExpression%20(FE)-6A1B9A?style=for-the-badge)
 
 ---
 
@@ -56,6 +66,7 @@ I’m particularly interested in building future-oriented technologies that comb
 
 ## ⚙️ Backend & Systems
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
